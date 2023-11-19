@@ -1,0 +1,28 @@
+.threecolumn-container { 
+    display: flex;
+    width: 70%;
+    margin: auto;
+    min-height: 100vh ;
+}
+
+.leftbar-container{
+    width: 30%;
+
+}
+
+.rightbar-container{
+    width: 30%;
+    
+}
+
+
+.main-container{
+    width: 25%;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    padding: 0 1rem;
+    
+}
+.leftbar1-container { 
+    width: 20%;
+}
